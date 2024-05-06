@@ -13,7 +13,7 @@ Play: https://chakilamsrikanth.github.io/Snake-Game/
 
 ## Features
 
-- **Levels:** The game consists of multiple levels, each with increasing difficulty.
+- **Cells:** The game consists of multiple cells, each with increasing difficulty.
 - **Speed:** The speed of the snake increases as the game progresses or based on the level.
 
 ## File Structure
