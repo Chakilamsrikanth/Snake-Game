@@ -38,3 +38,6 @@ To make modifications or contribute to the project, follow these steps:
 3. Test your changes locally.
 4. Submit a pull request with your modifications.
 
+## Demo
+
+<img width="419" alt="Snake" src="https://github.com/Chakilamsrikanth/Snake-Game/assets/147283839/78dff9f6-a637-408d-afba-e379415be4ba">
