@@ -1,6 +1,7 @@
 # Snake Game
 
 This is a simple implementation of the classic Snake game using HTML, CSS, JavaScript, and SCSS.
+Play: https://chakilamsrikanth.github.io/Snake-Game/
 
 ## How to Play
 
